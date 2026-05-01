@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.git
+.gitignore
+README.md
+# do NOT add .env here — FastAPI needs it at runtime
