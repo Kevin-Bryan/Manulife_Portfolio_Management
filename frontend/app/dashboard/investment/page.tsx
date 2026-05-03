@@ -471,7 +471,7 @@ export default function InvestmentPage() {
                 fontSize: "0.95rem",
               }}
             >
-              + Record Transaction
+              Buy/Sell Investments
             </button>
             <button
               type="button"
