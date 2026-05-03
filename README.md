@@ -11,7 +11,7 @@ A full-stack portfolio management application built with **Next.js**, **FastAPI*
 ## How to Run
 
 1. Clone the repository
-2. `cd Manulife_Portfilio_Management`
+2. `cd Manulife_Portfolio_Management`
 3. In the `frontend`, `backend`, and `docker` folders, create a `.env` file from `.env.example`
 4. From the root directory, run:
 
