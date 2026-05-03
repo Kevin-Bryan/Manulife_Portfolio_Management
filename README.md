@@ -1,15 +1,16 @@
-# Manulife_Portfilio_Management
+# Manulife Portfolio Management
 
-Tech Stack:
-Frontend: Next.js
-Backend: FAST API
-Database: Postgres
+A full-stack portfolio management application built with **Next.js**, **FastAPI**, and **PostgreSQL**.
 
-How to run?
-1.First clone or pull this repo
-2. Create a .env from .env.example for Docker, frontend and backend folder (by running "cp .env.example .env")
-3. In the root directory, run docker compose up
-4. The Frontend will run at localhost:3000 and Backend at localhost:8000
+## Tech Stack
+
+- **Frontend:** Next.js
+- **Backend:** FastAPI
+- **Database:** PostgreSQL
 
 
+## How to run?
+1. Clone the repository
+2. cd Manulife_Portfilio_Management
+3. Go to these three folders: frontend, backend, docker, and create a .env from .env.example
 
