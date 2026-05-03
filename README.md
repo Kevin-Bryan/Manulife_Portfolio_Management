@@ -24,7 +24,7 @@ docker compose up
 
 > **Demo Account**
 >
-> An account is automatically created for testing:
+> An account is automatically created for testing, but you are also welcome to create a new account:
 >
 > - **Username:** `demo`
 > - **Password:** `password123`
