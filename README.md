@@ -8,16 +8,36 @@ A full-stack portfolio management application built with **Next.js**, **FastAPI*
 - **Backend:** FastAPI
 - **Database:** PostgreSQL
 
-## How to run?
-1. Clone the repository
-2. cd Manulife_Portfilio_Management
-3. Go to these three folders: frontend, backend, docker, and create a .env from .env.example
-4. At the root directory, run docker compose build --no-cache, docker compose up
+## How to Run
 
-## Scope & Limitations
-1. For this demo, an account is automatically created: username: demo, password: password123
-2. Dummy data is also automatically loaded at first
-3. The JWT token last for 7 minutes, after it expired, you are required to login again
+1. Clone the repository
+2. `cd Manulife_Portfilio_Management`
+3. In the `frontend`, `backend`, and `docker` folders, create a `.env` file from `.env.example`
+4. From the root directory, run:
+
+```bash
+docker compose build --no-cache
+docker compose up
+```
+
+## Important Demo Notes
+
+> **Demo Account**
+>
+> An account is automatically created for testing:
+>
+> - **Username:** `demo`
+> - **Password:** `password123`
+
+> **Seeded Dummy Data**
+>
+> Dummy portfolio data is automatically loaded when the application starts for the first time.
+
+> **JWT Expiry**
+>
+> The JWT token is valid for **7 minutes**.  
+> After it expires, you will be redirected to log in again to obtain a new token.
 
 ## Sequence Diagram
+
 ![Sequence Diagram](docs/sequence-diagram.jpeg)
