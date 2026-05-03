@@ -473,23 +473,6 @@ export default function TransactionHistoryPage() {
             </div>
           </div>
 
-          <button
-            type="button"
-            onClick={() => router.push("/dashboard/investment")}
-            style={{
-              backgroundColor: "#2563eb",
-              color: "white",
-              border: "none",
-              padding: "10px 20px",
-              borderRadius: "8px",
-              fontWeight: 600,
-              cursor: "pointer",
-              fontSize: "0.95rem",
-              alignSelf: "flex-end",
-            }}
-          >
-            + Record Transaction
-          </button>
         </header>
 
         {/* ── Summary Cards ───────────────────────────────────────────────── */}
