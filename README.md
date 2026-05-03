@@ -20,3 +20,4 @@ A full-stack portfolio management application built with **Next.js**, **FastAPI*
 3. The JWT token last for 7 minutes, after it expired, you are required to login again
 
 ## Sequence Diagram
+![Sequence Diagram](docs/sequence-diagram.jpeg)
