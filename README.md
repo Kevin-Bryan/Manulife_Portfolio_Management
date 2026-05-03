@@ -24,14 +24,16 @@ docker compose up
 
 > **Demo Account**
 >
-> An account is automatically created for testing, but you are also welcome to create a new account:
+> An account is automatically created for testing:
 >
 > - **Username:** `demo`
 > - **Password:** `password123`
 
-> **Seeded Dummy Data**
+but you are also welcome to create a new account
+
+> **Loaded Dummy Data**
 >
-> Dummy portfolio data is automatically loaded when the application starts for the first time.
+> Dummy portfolio data is automatically loaded for the demo account when the application starts for the first time.
 
 > **JWT Expiry**
 >
