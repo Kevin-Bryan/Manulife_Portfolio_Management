@@ -1,0 +1,6 @@
+node_modules
+.next
+.git
+.gitignore
+README.md
+# do NOT add .env here — Next.js needs it during build
