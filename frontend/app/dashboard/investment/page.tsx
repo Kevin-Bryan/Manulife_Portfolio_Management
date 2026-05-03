@@ -445,7 +445,7 @@ export default function InvestmentPage() {
                 marginTop: "0.5rem",
               }}
             >
-              Add, edit, or remove your holdings. All changes sync in real time.
+              Add, edit, or remove your holdings. 
             </p>
           </div>
 
